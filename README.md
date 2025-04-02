@@ -6,7 +6,7 @@ https://github.com/kelsmckinney/geo409-field-trip-maps.git
 Maps for field trip to measure tree canopy
 
 ![ky counties](Layout3.jpg)  
-Kentucky counties with selected land cover types – [Download geospatial PDF](Ky-landcover.pdf)
+Kentucky counties with selected land cover types – [Download geospatial PDF](kylanduse.pdf)
 
 ![UKy Campus canopy model](campus-canopy-model.jpg)  
 UKy central campus canopy model – [Download geospatial PDF](campus-canopy-model.pdf)
