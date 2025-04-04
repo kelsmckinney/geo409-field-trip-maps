@@ -1,4 +1,5 @@
-# geo409-field-trip-maps
+# Kelsey's Web Page
+# GEO 409 field trip maps
 Selected maps of Kentucky and locations therein
 https://github.com/kelsmckinney/geo409-field-trip-maps.git
 # GEO409 Field Trip Maps
