@@ -1,8 +1,4 @@
-# Kelsey's Web Page
-Selected maps of Kentucky and locations therein
-https://github.com/kelsmckinney/geo409-field-trip-maps.git
 # GEO409 Field Trip Maps
-
 Maps for field trip to measure tree canopy
 
 ![ky counties](Layout3.jpg)  
