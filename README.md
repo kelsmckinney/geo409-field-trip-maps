@@ -1,4 +1,4 @@
-# geo409-field-trip-maps
+# GEO409 Field Trip Maps
 Selected maps of Kentucky and locations therein
 https://github.com/kelsmckinney/geo409-field-trip-maps.git
 # GEO409 Field Trip Maps
